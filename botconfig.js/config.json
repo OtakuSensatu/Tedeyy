@@ -1,0 +1,53 @@
+{
+  "token": "ODE1NDExMjE4NjU4NzU0NTgw.YDsA4A.1f0HNUBLVFmWY2hSj7LoLu6QfbA",
+  "prefix": "m!",
+
+  "clientsettings": {
+    "nodes": [
+      {
+         "host": "lava.link",
+         "port": 80,
+         "password": "youshallnotpass"
+       }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "",
+    "clientID": ""
+  },
+
+  "settings": {
+       "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": "🔶",
+    "leaveOnEmpty_Channel" : {
+      "enabled": false,
+      "time_delay": 60000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": false,
+      "time_delay": 30000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+
+  "lyricssettings": {
+    "lyrics_finder": true,         "COMMENT": "minha sugestão é usar ksoft_api em verdade e colar na tecla api você pode se inscrever, até obter o uso chave lyrics_finder que é muito mais fraco, mas melhor do que nada",
+    "ksoft_api": {
+      "use_this_instead": false,
+      "api_key": ""
+    }
+  },
+
+
+  "ownerIDS": ["601329181590159361"],
+
+
+  "status": {
+    "text": "Nova Mobile-chan chegou!",
+    "type": "LISTENING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+    "url": "https://images-ext-1.discordapp.net/external/CEheRVJ-NqXgE3n9dbEVJPYsP_6VfDNb26qAa16GhO4/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/815411218658754580/431ac47a689987780cb8b1aa6cadb936.png"
+  }
+
+}
